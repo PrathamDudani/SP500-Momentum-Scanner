@@ -7,13 +7,13 @@
 ## Visualizations
 
 ### Actual vs Expected Return
-![Actual vs Expected Return](assets/actual vs expected return.png)
+![Actual vs Expected Return](assets/actual-vs-expected-return.png)
 
 ### Top 30 Abnormal Movers
-![Top 30 Movers](assets/Top 30 Abnormal Movers by Z-Score.png)
+![Top 30 Movers](assets/top-30-abnormal-movers.png)
 
 ### Trailing Abnormal Returns Heatmap
-![Heatmap](assets/Trailing Abnormal Returns.png)
+![Heatmap](assets/trailing-abnormal-returns.png)
 
 A quantitative momentum scanner for S&P 500 stocks that identifies abnormal movers using **residual (market-adjusted) returns**, rolling beta/alpha estimation, z-score normalization, and volume confirmation — built entirely with free data sources.
 
