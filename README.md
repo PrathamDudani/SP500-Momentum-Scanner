@@ -4,17 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## Visualizations
-
-### Actual vs Expected Return
-![Actual vs Expected Return](assets/actual-vs-expected-return.png)
-
-### Top 30 Abnormal Movers
-![Top 30 Movers](assets/top-30-abnormal-movers.png)
-
-### Trailing Abnormal Returns Heatmap
-![Heatmap](assets/trailing-abnormal-returns.png)
-
 A quantitative momentum scanner for S&P 500 stocks that identifies abnormal movers using **residual (market-adjusted) returns**, rolling beta/alpha estimation, z-score normalization, and volume confirmation — built entirely with free data sources.
 
 ---
